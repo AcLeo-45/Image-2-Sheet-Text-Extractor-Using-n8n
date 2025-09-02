@@ -81,9 +81,8 @@ Test with simple image URLs first
 Review the workflow configuration step by step
 ---------------------------------------------------------------------------------
 
-# Troubleshooting Guide
 
-## Common Issues and Solutions
+# Common Issues and Solutions
 
 ### Webhook Issues
 
