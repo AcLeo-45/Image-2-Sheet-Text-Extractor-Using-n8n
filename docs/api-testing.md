@@ -14,3 +14,6 @@
     "imageUrl": "https://via.placeholder.com/300x200/000000/FFFFFF?text=Sample+Text"
   }
 }
+
+
+## Click "Send" to trigger the workflow
