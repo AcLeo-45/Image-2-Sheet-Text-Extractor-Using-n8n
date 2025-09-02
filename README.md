@@ -1,6 +1,6 @@
 # Image OCR to Google Sheets Automation
 
-An automated workflow that extracts text from image URLs using OCR.space API and saves the results to Google Sheets.
+Automated OCR system using n8n that extracts text from images via webhook, processes them using OCR.space API, and stores results in Google Sheets. Supports real-time image processing with external API integration.
 
 ## Overview
 
