@@ -35,6 +35,8 @@ This guide provides detailed instructions for setting up each node in the OCR wo
   - Value: `{{ $json.body.imageUrl }}` (Note: accessing via body.imageUrl)
   - Type: String
 
+### Note: The webhook expects the image URL to be nested under body.imageUrl, not directly as imageUrl
+
 ### Node 3: Download Image
 - Type: HTTP Request
 - Method: GET
